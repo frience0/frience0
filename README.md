@@ -12,9 +12,9 @@ Talking about Personal Stuffs:
 - Enterprise application development and support
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap 
 - <b>Back-end</b> : Node | Express | Laravel (PHP)
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase | Firestore
+- <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase
 - <b>Others</b> : Docker | Docker-Compose 
-- Git, Github, BitBucket, Amazon Web Services, Heroku, Jira, Trello, Pusher Digital-Ocean, Github Action, and so on.
+- Git, Github, Amazon Web Services, Heroku, Pusher Digital-Ocean, Github Action, and so on.
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 
