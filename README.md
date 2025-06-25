@@ -10,11 +10,11 @@ Talking about Personal Stuffs:
 
 - I am a rich and experienced frontend web developer for large projects, and I am ready to start your project anytime
 - Enterprise application development and support
-- <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap 
+- <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap
 - <b>Back-end</b> : Node | Express | Laravel (PHP)
 - <b>Database</b> : Mysql | MongoDB | PostgreSQL | Firebase
-- <b>Others</b> : Docker | Docker-Compose 
-- Git, Github, Amazon Web Services, Heroku, Pusher Digital-Ocean, Github Action, and so on.
+- <b>Others</b> : Docker | Docker-Compose
+- Git, Github, Amazon Web Services, Heroku, Hostinger, Pusher Digital-Ocean, Github Action, and so on.
 
 <i>LOOKING FOR OPPORTUNITY TO CONTRIBUTE TO PROFESSIONAL PROJECTS.</i>
 
@@ -25,13 +25,13 @@ Talking about Personal Stuffs:
 ![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=ayu-mirage&user=Unshack)
 
 ### My Github Status
+
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Unshack&count_private=true&show_icons=true&theme=ayu-mirage)
 <br/>
-### Most Used Langauges    
+
+### Most Used Langauges
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Unshack&layout=compact&theme=ayu-mirage&langs_count=8)
-
-
-
 
 <div>
     <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=Unshack.Unshack" />
@@ -42,7 +42,6 @@ Talking about Personal Stuffs:
 <div align="center">
     
 ![](https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Web%20Developer;Backend%20Engineer;Frontend%20Expert;React%20Master;Always%20learning%20new%20techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
-
 
 <h2 font-weight="bold" style="display: block; text-align: center; margin-top: 100px;">My Top Skills</h2>
 <table>
