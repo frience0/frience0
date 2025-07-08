@@ -8,7 +8,7 @@
 
 Talking about Personal Stuffs:
 
-- I am a rich and experienced frontend web developer for large projects, and I am ready to start your project anytime
+- I am a front-end web developer with rich of experience in building large projects, and I am ready to start your project anytime
 - Enterprise application development and support
 - <b>Front-end</b> : Reactjs | Next.js | Vuejs | TypeScript | TailWind CSS | Material | Styled Components | Bootstrap
 - <b>Back-end</b> : Node | Express | Laravel (PHP)
